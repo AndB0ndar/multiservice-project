@@ -1,0 +1,6 @@
+[submodule "goods_service"]
+	path = goods_service
+	url = git@github.com:AndB0ndar/MSGoodsMIREA.git
+[submodule "orders_service"]
+	path = orders_service
+	url = git@github.com:AndB0ndar/MSOrdersMIREA.git
